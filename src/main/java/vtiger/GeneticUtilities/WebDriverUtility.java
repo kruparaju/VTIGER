@@ -67,6 +67,11 @@ public class WebDriverUtility {
 		Actions act = new Actions(driver);
 		act.doubleClick(ele).perform();
 	}
+        public void double_Click2(WebDriver driver,WebElement ele) 
+	{
+		Actions act = new Actions(driver);
+		act.doubleClick(ele).perform();
+	}
 	
 	
 
