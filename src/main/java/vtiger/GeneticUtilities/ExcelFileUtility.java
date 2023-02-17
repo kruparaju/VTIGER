@@ -19,7 +19,6 @@ public class ExcelFileUtility {
 	 * @param rownum
 	 * @param cellnum
 	 * @return
-	 * @throws EncryptedDocumentException
 	 * @throws IOException
 	 */
 	
